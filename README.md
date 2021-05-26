@@ -40,3 +40,4 @@ result in a third register. (2 marks)
 (Hint this will require separating the mantissa and exponent, adding the leading one, shifting the
 mantissas with smaller exponent, adding mantissas together, normalizing the result. etc. Ignore
 special cases like infinity, NaN, but consider the case of zero.)
+--------------------------------------------------------------------------------
